@@ -1,4 +1,5 @@
-//Implement Dijkstra's algorithm and find the shortest path in a graph
+/* Implement Dijkstra's algorithm and find the shortest path from a source vertex to all other
+vertices in a weighted directed graph */
 
 #include<stdio.h>
 #include<stdlib.h>
